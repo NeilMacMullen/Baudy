@@ -3,6 +3,8 @@ Not a terminal emulator
 
 Features:
 - Customisable colorisation
+- linecount + timestamp
+- insert comments and bookmarks
 - Text and UI
 - UART/SOCKET 
 - Command auto-completion
