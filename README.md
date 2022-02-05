@@ -17,3 +17,4 @@ Features:
 - pause/release com auto-reconnect
 - enumerate com ports
 - multiple views.  Pause/follow/search
+- scripting
